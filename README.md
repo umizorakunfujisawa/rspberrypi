@@ -1,0 +1,2 @@
+# rspberrypi
+ラズパイ用のPython
